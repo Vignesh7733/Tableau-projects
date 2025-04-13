@@ -1,15 +1,20 @@
 ## Project Name
-NVIDIA Stock Price Dashboard
+Virat Kohli Cricket Career Dashboard
 ## Tool
 Tableau
 
 ## Project Description
-This Tableau project analyzes NVIDIA’s stock performance, focusing on historical trends (daily closing prices, trading volumes, high/low fluctuations) and incorporates a future price forecasting model. The dashboard serves investors and analysts by visualizing key metrics and predictive insights to guide trading strategies.  
+This Tableau project visualizes the international cricket career of Virat Kohli. It provides an in-depth analysis of his performance across different years, venues, formats, and match situations. The dashboard presents key statistics such as total runs, centuries, batting positions, and performances in winning games.
+
 
 ## Key Insights
-1.Mid-Month Volatility:
-Significant price swings ( -3.6% drop on Dec 19) correlated with high trading volumes (509.72M), suggesting event-driven trading.  
-2.Volume Decline:
-Lower volumes toward month-end (233.65M on Dec 29) aligned with reduced price momentum, possibly due to holiday inactivity.  
-3.Forecasting Accuracy:
-Close price predictions ($49.38) closely matched actual data ($49.279), validating the model’s short-term reliability.  
+1.Batting Position :  
+53.75% of centuries came at Position 3 (ideal role as a top-order batsman).  
+2.Opponent Performance :  
+Dominance against Australia (4,483 runs), England (3,903), and West Indies (3,653).  
+3.Venue Impact :  
+Highest runs at Mirpur (1,258), Wankhede (931), and Adelaide (879).  
+4.Win Correlation :  
+71.25% of matches won when Kohli scores a century.  
+5.Yearly Trends :  
+Peak performance in 2016–2017 (over 2,700 runs annually).  
