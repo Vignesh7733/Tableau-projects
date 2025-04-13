@@ -8,13 +8,13 @@ This Tableau project visualizes the international cricket career of Virat Kohli.
 
 
 ## Key Insights
-1.Batting Position :  
+* Batting Position :  
 53.75% of centuries came at Position 3 (ideal role as a top-order batsman).  
-2.Opponent Performance :  
+* Opponent Performance :  
 Dominance against Australia (4,483 runs), England (3,903), and West Indies (3,653).  
-3.Venue Impact :  
+* Venue Impact :  
 Highest runs at Mirpur (1,258), Wankhede (931), and Adelaide (879).  
-4.Win Correlation :  
+* Win Correlation :  
 71.25% of matches won when Kohli scores a century.  
-5.Yearly Trends :  
+* Yearly Trends :  
 Peak performance in 2016–2017 (over 2,700 runs annually).  
