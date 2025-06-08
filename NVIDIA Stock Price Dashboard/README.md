@@ -13,3 +13,7 @@ Significant price swings ( -3.6% drop on Dec 19) correlated with high trading vo
 Lower volumes toward month-end (233.65M on Dec 29) aligned with reduced price momentum, possibly due to holiday inactivity.  
 3.Forecasting Accuracy :
 Close price predictions ($49.38) closely matched actual data ($49.279), validating the model’s short-term reliability.  
+
+## Tableau Public link
+
+https://public.tableau.com/views/NVIDIASTOCKPRICEDASHBOARD/StockPriceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
