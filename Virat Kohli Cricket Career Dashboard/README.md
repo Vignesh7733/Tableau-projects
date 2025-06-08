@@ -18,3 +18,7 @@ Highest runs at Mirpur (1,258), Wankhede (931), and Adelaide (879).
 71.25% of matches won when Kohli scores a century.  
 * Yearly Trends :  
 Peak performance in 2016–2017 (over 2,700 runs annually).  
+
+## Tableau Public link
+
+https://public.tableau.com/views/ViratKohliCricketCareerDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
