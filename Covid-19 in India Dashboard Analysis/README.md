@@ -19,3 +19,6 @@ Uttar Pradesh conducted 11.3B tests, while smaller states like Goa lacked data v
 5. Gender Imbalance :
 Males accounted for 66.76% of cases, possibly due to occupational exposure.  
 
+##Tableau Public link
+
+!https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17337255765520/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
